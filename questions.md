@@ -1,1 +1,2 @@
 - Explain call(), apply() and, bind() methods.
+- What are JavaScript Data Types? 
