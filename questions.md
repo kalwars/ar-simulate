@@ -1,0 +1,1 @@
+- Explain call(), apply() and, bind() methods.
